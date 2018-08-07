@@ -1,2 +1,2 @@
 # Ywl.Json
-extend from REST.Json.TJson
+extended from REST.Json.TJson; add method Decode,fixed method Format.
